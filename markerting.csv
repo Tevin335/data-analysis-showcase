@@ -1,0 +1,22 @@
+id,first_name,last_name,email,phone,age,gender,city,state,country,interest1,interest2,interest3,interest4,interest5,subscription_date,source,newsletter,conversion,sales_amount
+1,John,Doe,johndoe@example.com,555-1234,25,Male,New York,NY,USA,Sports,Technology,Fashion,,,2023-01-01,Website,Yes,No,0
+2,Jane,Smith,janesmith@example.com,555-5678,30,Female,San Francisco,CA,USA,Travel,Food,Music,,,2023-01-02,Referral,Yes,Yes,100
+3,David,Johnson,davidjohnson@example.com,555-9876,45,Male,Chicago,IL,USA,Finance,Technology,,,2023-01-03,Website,No,No,0
+4,Sarah,Williams,sarahwilliams@example.com,555-4321,35,Female,Los Angeles,CA,USA,Fashion,Art,Beauty,,,2023-01-04,Website,Yes,Yes,50
+5,Michael,Brown,michaelbrown@example.com,555-8765,28,Male,Miami,FL,USA,Sports,Technology,Music,,,2023-01-05,Referral,Yes,Yes,200
+6,Emily,Jones,emilyjones@example.com,555-2345,32,Female,Boston,MA,USA,Travel,Food,Technology,,,2023-01-06,Website,Yes,No,0
+7,Robert,Miller,robertmiller@example.com,555-6543,40,Male,Dallas,TX,USA,Finance,Technology,Food,,,2023-01-07,Website,Yes,Yes,150
+8,Olivia,Taylor,oliviataylor@example.com,555-8765,22,Female,Houston,TX,USA,Fashion,Art,Beauty,,,2023-01-08,Referral,No,No,0
+9,James,Anderson,jamesanderson@example.com,555-5432,38,Male,Seattle,WA,USA,Sports,Music,Technology,,,2023-01-09,Website,Yes,Yes,75
+10,Sophia,Lee,sophialee@example.com,555-7654,27,Female,Atlanta,GA,USA,Travel,Food,Fashion,,,2023-01-10,Website,Yes,Yes,100
+11,Matthew,Hall,matthewhall@example.com,555-1234,33,Male,New York,NY,USA,Finance,Technology,,,2023-01-11,Referral,Yes,Yes,200
+12,Abigail,Wilson,abigailwilson@example.com,555-5678,29,Female,San Francisco,CA,USA,Fashion,Art,Beauty,,,2023-01-12,Website,No,No,0
+13,Andrew,Thomas,andrewthomas@example.com,555-9876,42,Male,Chicago,IL,USA,Sports,Music,Technology,,,2023-01-13,Website,Yes,Yes,150
+14,Mia,Lewis,mialewis@example.com,555-4321,31,Female,Los Angeles,CA,USA,Travel,Food,Fashion,,,2023-01-14,Referral,Yes,No,0
+15,Joseph,Hill,josephhill@example.com,555-8765,36,Male,Miami,FL,USA,Finance,Technology,Music,,,2023-01-15,Website,Yes,Yes,100
+16,Charlotte,Young,charlotteyoung@example.com,555-2345,26,Female,Boston,MA,USA,Art,Beauty,Technology,,,2023-01-16,Website,No,No,0
+17,Christopher,Clark,christopherclark@example.com,555-6543,43,Male,Dallas,TX,USA,Sports,Technology,Food,,,2023-01-17,Referral,Yes,Yes,250
+18,Harper,Hall,harperhall@example.com,555-8765,24,Female,Houston,TX,USA,Travel,Food,Fashion,,,2023-01-18,Website,Yes,Yes,75
+19,Grace,Parker,graceparker@example.com,555-5432,37,Female,Seattle,WA,USA,Finance,Technology,,,2023-01-19,Website,No,No,0
+20,Daniel,Wright,danielwright@example.com,555-7654,28,Male,Atlanta,GA,USA,Fashion,Art,Beauty,,,2023-01-20,Referral,Yes,Yes,150
+... (more rows)
